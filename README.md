@@ -1,4 +1,4 @@
-# MyDNSHost bulk importer
+# MyDNSHost bulk exporter
 
 This repository contains code to export zones from https://www.mydnshost.co.uk/ into a directory of zone files.
 
